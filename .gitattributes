@@ -1,0 +1,2 @@
+omt2mzn-experiment.tar.gz filter=lfs diff=lfs merge=lfs -text
+minizinc_test.tar.xz filter=lfs diff=lfs merge=lfs -text
